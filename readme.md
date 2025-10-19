@@ -1,0 +1,1 @@
+TTS script that lets you enter text into a TTS and it outputs to a virtual mic. It is specifically for Linux and uses Piper. You need to put a piper voice in `~/piper-voices` on your computer.
